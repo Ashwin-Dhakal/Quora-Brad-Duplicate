@@ -2,3 +2,13 @@
 glove\.840B\.300d\.txt
 
 quora_duplicate_questions\.tsv
+
+q2_train\.npy
+
+q1_train\.npy
+
+nb_words\.json
+
+word_embedding_matrix\.npy
+
+label_train\.npy
