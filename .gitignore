@@ -12,3 +12,9 @@ nb_words\.json
 word_embedding_matrix\.npy
 
 label_train\.npy
+
+train_features\.csv
+
+GoogleNews-vectors-negative300\.bin
+
+ANNmodell\.h5
